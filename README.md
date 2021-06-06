@@ -1,1 +1,1 @@
-# Predicting-No-of-cluster-using-K-means
+# Predicting-number-of-cluster-using-K-means
